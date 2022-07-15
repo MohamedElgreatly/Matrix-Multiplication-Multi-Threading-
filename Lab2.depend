@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648631156 source:/home/mohamed/Desktop/Lab2/main.c
+	<stdio.h>
+	<stdio.h>
+	<signal.h>
+	<sys/wait.h>
+	<unistd.h>
+	<string.h>
+	<pthread.h>
+	<stdlib.h>
+	<sys/time.h>
+
